@@ -1,0 +1,8 @@
+{
+  "name": "NeonChat AI",
+  "description": "A futuristic group chat experience with AI-powered image editing, video generation, drawing tools, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
